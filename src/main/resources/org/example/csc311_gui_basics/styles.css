@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: blue;
+}
+
+.name-title {
+    -fx-font-size: 36px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: red;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.25), 8, 0.3, 2, 2);
+}
